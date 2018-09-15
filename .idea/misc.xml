@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/oauth2lab/lab05/angularjs/oauth-ui-implicit" />
+    <file type="web" url="file://$PROJECT_DIR$/oauth2lab/lab05/oauth-resource" />
+    <file type="web" url="file://$PROJECT_DIR$/oauth2lab/lab05/oauth-server" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/oauth2lab/lab01/authcode-server/pom.xml" />
         <option value="$PROJECT_DIR$/oauth2lab/lab01/client-server/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab01/authcode-server/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab01/implicit-server/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab01/password-server/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab02/client-resttemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab03/jwt-authserver/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab03/jwt-resourceserver/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab04/mobile-authserver/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab05/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab06/social-github/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab07/state-param-security/state-client/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth2lab/lab07/state-param-security/state-oauth2server/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

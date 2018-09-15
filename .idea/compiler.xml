@@ -7,14 +7,44 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="authcode-server" />
+        <module name="client-resttemplate" />
         <module name="client-server" />
-        <module name="mycodes" />
+        <module name="implicit-server" />
+        <module name="jwt-authserver" />
+        <module name="jwt-resourceserver" />
+        <module name="mobile-authserver" />
+        <module name="nettybook" />
+        <module name="oauth-resource" />
+        <module name="oauth-server" />
+        <module name="oauth-ui-implicit" />
+        <module name="password-server" />
+        <module name="social-github" />
+        <module name="state-client" />
+        <module name="state-oauth2server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="authcode-server" target="1.8" />
+      <module name="client-resttemplate" target="1.8" />
       <module name="client-server" target="1.8" />
+      <module name="implicit-server" target="1.8" />
+      <module name="jwt-authserver" target="1.8" />
+      <module name="jwt-resourceserver" target="1.8" />
+      <module name="mobile-authserver" target="1.8" />
       <module name="mycodes" target="1.8" />
+      <module name="nettybook" target="1.8" />
+      <module name="oauth-resource" target="1.8" />
+      <module name="oauth-server" target="1.8" />
+      <module name="oauth-ui-implicit" target="1.8" />
+      <module name="password-server" target="1.8" />
+      <module name="social-github" target="1.8" />
+      <module name="spring-security-oauth" target="1.6" />
+      <module name="state-client" target="1.8" />
+      <module name="state-oauth2server" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="SbtSettings">
+    <option name="sbtLauncherJarPath" value="C:/DevelopFiles/sbt/bin/sbt-launch.jar" />
+    <option name="sbtLauncherVmParameters" value="-Xmx512M -XX:MaxPermSize=256M" />
   </component>
 </project>

@@ -3,8 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab01/authcode-server/authcode-server.iml" filepath="$PROJECT_DIR$/oauth2lab/lab01/authcode-server/authcode-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab02/client-resttemplate/client-resttemplate.iml" filepath="$PROJECT_DIR$/oauth2lab/lab02/client-resttemplate/client-resttemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab01/client-server/client-server.iml" filepath="$PROJECT_DIR$/oauth2lab/lab01/client-server/client-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab01/implicit-server/implicit-server.iml" filepath="$PROJECT_DIR$/oauth2lab/lab01/implicit-server/implicit-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab03/jwt-authserver/jwt-authserver.iml" filepath="$PROJECT_DIR$/oauth2lab/lab03/jwt-authserver/jwt-authserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab03/jwt-resourceserver/jwt-resourceserver.iml" filepath="$PROJECT_DIR$/oauth2lab/lab03/jwt-resourceserver/jwt-resourceserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab04/mobile-authserver/mobile-authserver.iml" filepath="$PROJECT_DIR$/oauth2lab/lab04/mobile-authserver/mobile-authserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycodes.iml" filepath="$PROJECT_DIR$/mycodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nettybook/nettybook.iml" filepath="$PROJECT_DIR$/nettybook/nettybook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab05/oauth-resource/oauth-resource.iml" filepath="$PROJECT_DIR$/oauth2lab/lab05/oauth-resource/oauth-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab05/oauth-server/oauth-server.iml" filepath="$PROJECT_DIR$/oauth2lab/lab05/oauth-server/oauth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab05/angularjs/oauth-ui-implicit/oauth-ui-implicit.iml" filepath="$PROJECT_DIR$/oauth2lab/lab05/angularjs/oauth-ui-implicit/oauth-ui-implicit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab01/password-server/password-server.iml" filepath="$PROJECT_DIR$/oauth2lab/lab01/password-server/password-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab06/social-github/social-github.iml" filepath="$PROJECT_DIR$/oauth2lab/lab06/social-github/social-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab05/spring-security-oauth.iml" filepath="$PROJECT_DIR$/oauth2lab/lab05/spring-security-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab07/state-param-security/state-client/state-client.iml" filepath="$PROJECT_DIR$/oauth2lab/lab07/state-param-security/state-client/state-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2lab/lab07/state-param-security/state-oauth2server/state-oauth2server.iml" filepath="$PROJECT_DIR$/oauth2lab/lab07/state-param-security/state-oauth2server/state-oauth2server.iml" />
     </modules>
   </component>
 </project>

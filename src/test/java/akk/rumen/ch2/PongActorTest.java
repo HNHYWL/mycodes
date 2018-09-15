@@ -13,6 +13,4 @@ public class PongActorTest {
     ActorSystem system = ActorSystem.create();
     ActorRef actorRef = system.actorOf(Props.create(JavaPongActor.class));
 
-
-
 }
